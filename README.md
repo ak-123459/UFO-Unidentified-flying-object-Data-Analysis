@@ -1,6 +1,6 @@
  <div align= "start">
   
-  <a href="https://ibb.co/Fq4W93qb"><img src="https://i.ibb.co/84gBJs4D/4677696.jpg" width='200' alt="4677696" border="0"></a>
+  <a href="https://ibb.co/Fq4W93qb"><img src="https://i.ibb.co/84gBJs4D/4677696.jpg" alt="4677696" border="0"></a>
 
  <div/>
 
